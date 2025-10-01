@@ -5,8 +5,8 @@
 
 package com.vettrack.vettrack.controller;
 
-import com.vettrack.model.Dueno;
-import com.vettrack.repository.DuenoRepository;
+import com.vettrack.vettrack.model.Dueno;
+import com.vettrack.vettrack.repository.DuenoRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

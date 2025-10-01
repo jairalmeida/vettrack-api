@@ -9,7 +9,7 @@ package com.vettrack.vettrack.repository;
  *
  * @author jair-
  */
-import com.vettrack.model.Vacuna;
+import com.vettrack.vettrack.model.Vacuna;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface VacunaRepository extends JpaRepository<Vacuna, Long> {

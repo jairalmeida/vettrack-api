@@ -5,7 +5,7 @@
 
 package com.vettrack.vettrack.repository;
 
-import com.vettrack.model.Dueno;
+import com.vettrack.vettrack.model.Dueno;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface DuenoRepository extends JpaRepository<Dueno, Long> {}

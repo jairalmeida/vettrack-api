@@ -5,8 +5,8 @@
 
 package com.vettrack.vettrack.controller;
 
-import com.vettrack.model.Cita;
-import com.vettrack.repository.CitaRepository;
+import com.vettrack.vettrack.model.Cita;
+import com.vettrack.vettrack.repository.CitaRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

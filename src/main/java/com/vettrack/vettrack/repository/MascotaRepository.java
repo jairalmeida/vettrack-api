@@ -5,7 +5,7 @@
 
 package com.vettrack.vettrack.repository;
 
-import com.vettrack.model.Mascota;
+import com.vettrack.vettrack.model.Mascota;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface MascotaRepository extends JpaRepository<Mascota, Long> {}

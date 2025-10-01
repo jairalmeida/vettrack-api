@@ -5,8 +5,8 @@
 
 package com.vettrack.vettrack.controller;
 
-import com.vettrack.model.Mascota;
-import com.vettrack.repository.MascotaRepository;
+import com.vettrack.vettrack.model.Mascota;
+import com.vettrack.vettrack.repository.MascotaRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
